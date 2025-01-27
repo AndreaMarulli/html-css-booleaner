@@ -1,0 +1,29 @@
+.grey {
+    background-color:lightblue ;
+    padding: 30px 10px;
+}
+#header-logo {
+width: 150px;
+}
+.titolo {
+    font-size: 35px;
+} 
+.autore {
+    color: gray;
+}
+.nome {
+    color: blue;
+}
+.data {
+    color: grey;
+}
+.caption {
+    font-size: 12px;
+}
+.highlight {
+    font-weight: 400;
+    background-color: yellow;
+}
+.large-col {
+width: 50%;
+}

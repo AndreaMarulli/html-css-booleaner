@@ -1,29 +1,73 @@
 .grey {
-    background-color:lightblue ;
+    background-color:hsl(195, 53%, 79%) ;
     padding: 30px 10px;
 }
+
+
 #header-logo {
 width: 150px;
 }
+
+
 .titolo {
     font-size: 35px;
-} 
+}
+
+
 .autore {
-    color: gray;
+    color: hsl(0, 0%, 50%);
 }
+
+
 .nome {
-    color: blue;
+    color: hsl(240, 100%, 50%);
 }
+
+
 .data {
-    color: grey;
+    color: hsl(0, 0%, 50%);
 }
+
+
+.margin {
+    margin-top: 30px;
+}
+
+
 .caption {
     font-size: 12px;
 }
+
+
 .highlight {
     font-weight: 400;
-    background-color: yellow;
+    background-color: hsl(60, 100%, 50%);
 }
-.large-col {
+
+
+.large {
 width: 50%;
 }
+
+
+.row {
+    background-color: hsl(184, 34%, 75%);
+}
+
+
+.first-line {
+    background-color: rgb(48, 231, 173);
+    text-align: left;
+}
+
+.end {
+    background-color: rgb(63, 8, 134);
+    text-align: center;
+}
+
+
+.end2 {
+    color: white;
+    padding: 15px 10px;
+}
+    
